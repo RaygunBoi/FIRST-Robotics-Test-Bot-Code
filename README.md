@@ -1,3 +1,2 @@
-"# FIRST-Robotics-Test-Bot-Code" 
-"# FIRST-Robotics-Test-Bot-Code" 
-"# FIRST-Robotics-Test-Bot-Code" 
+## Information
+This repository contains code for a test robot that was used in our team's FIRST Robotics competition. It is a simple robot that has an extendable arm controlled by four solenoid pistons (two on each side of the arm, one set is two long solenoids and the other set is two short solenoids) which can be used to grab objects. The arm has four positions which are defined in `IntakePosition.java`: `FULLY-RETRACTED` (both sets of pistons are retracted), `LONG-RETRACT` (the set of long solenoid pistons are rectracted), `SHORT-RETRACT` (the set of short solenoid pistons are retracted), and `FULLY-EXTENDED` (both sets of pistons are extended).
